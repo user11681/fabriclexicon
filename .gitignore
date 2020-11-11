@@ -1,0 +1,9 @@
+.*
+!/.gitignore
+
+build
+out
+*/build
+*/out
+run
+logs
